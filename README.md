@@ -40,9 +40,18 @@
 
 ## Решение 1-3  
 Template Task1  
+![Снимок 215](https://github.com/user-attachments/assets/820e59c9-d106-4257-bf73-fe23058c1292)
+
+Hosts  
+![Снимок 214](https://github.com/user-attachments/assets/a9c48cc1-3d0f-4735-a7d0-6f3a0f0bc5d4)
+
+Hosts with template  
+![Снимок217](https://github.com/user-attachments/assets/f35c3645-11c5-4425-8219-647efb6799e5)
+
 
 ## Задание 4  
-Создайте свой кастомный дашборд.  
+Создайте свой кастомный дашборд.    
+![Снимок220](https://github.com/user-attachments/assets/517cb910-7caa-48cc-9233-59d0d9e5fd95)
 
 Процесс выполнения  
 Выполняя ДЗ сверяйтесь с процессом отражённым в записи лекции.  
