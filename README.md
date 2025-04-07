@@ -42,7 +42,7 @@
 Template Task1  
 ![Снимок 215](https://github.com/user-attachments/assets/820e59c9-d106-4257-bf73-fe23058c1292)
 
-Hosts  
+Hosts  (ivanov petrov)
 ![Снимок 214](https://github.com/user-attachments/assets/a9c48cc1-3d0f-4735-a7d0-6f3a0f0bc5d4)
 
 Hosts with template  
