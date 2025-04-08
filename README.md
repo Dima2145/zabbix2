@@ -50,7 +50,8 @@ Hosts  (ivanovii-1 ivanovii-2)
 
 Hosts with template  
 ![Снимок224](https://github.com/user-attachments/assets/1d70d36d-9597-4dfb-a0cc-507ba27e2ac4)
-
+раздел Latest Data  
+![image](https://github.com/user-attachments/assets/880e0099-57d3-4644-8089-be25b5f0a0fe)
 
 ## Задание 4  
 Создайте свой кастомный дашборд.    
