@@ -40,13 +40,16 @@
 
 ## Решение 1-3  
 Template Task1  
-![Снимок 215](https://github.com/user-attachments/assets/820e59c9-d106-4257-bf73-fe23058c1292)
+![Снимок226](https://github.com/user-attachments/assets/43596222-073e-4bf6-95ab-a0127db04a95)
 
-Hosts  (ivanov petrov)
-![Снимок 214](https://github.com/user-attachments/assets/a9c48cc1-3d0f-4735-a7d0-6f3a0f0bc5d4)
+
+Hosts  (ivanovii-1 ivanovii-2)
+![Снимок222](https://github.com/user-attachments/assets/2403cfa3-cee1-4c0a-aa64-0fd392aa8b29)
+
+
 
 Hosts with template  
-![Снимок217](https://github.com/user-attachments/assets/f35c3645-11c5-4425-8219-647efb6799e5)
+![Снимок224](https://github.com/user-attachments/assets/1d70d36d-9597-4dfb-a0cc-507ba27e2ac4)
 
 
 ## Задание 4  
@@ -58,4 +61,5 @@ Hosts with template
 Требования к результату  
  Прикрепите в файл README.md скриншот дашборда с названием «Задание 4»  
 ## Решение 4
-![Снимок220](https://github.com/user-attachments/assets/517cb910-7caa-48cc-9233-59d0d9e5fd95)
+
+![Снимок225](https://github.com/user-attachments/assets/23c8f213-29be-4685-961e-4923a6926e43)
